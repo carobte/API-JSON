@@ -4,7 +4,7 @@
 
 1. Clonarlo:
    
-   <code> git clone https://github.com/carobte/api-riwi </code>
+   <code> git clone https://github.com/carobte/API-JSON </code>
   
 2. Instalar dependencias -> abrimos el proyecto en el Visual Studio Code y en la terminal escribimos:
   
