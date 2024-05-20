@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="./public/icons/favicon.ico" type="image/x-icon">
+    <title>Api local</title>
+</head>
+
+<body>
+    <header class="text-center">
+        <h1>Api local</h1>
+    </header>
+
+    <main class="container">
+        <form class="text-center mb-5">
+            <div class="form-group py-2 text-start">
+                <label for="name">Name</label>
+                <input type="text" class="form-control" id="name" aria-describedby="name" placeholder="Enter name">
+            </div>
+            <div class="form-group mb-2 text-start">
+                <label for="image">Image</label>
+                <input type="url" class="form-control" id="url-image" aria-describedby="image" placeholder="Enter url image">
+            </div>
+            <button type="submit" id="btn-new" class="btn btn-success">
+                Save
+            </button>
+        </form>
+
+        <section class="table-responsive">
+            <table class="table table-striped text-center align-middle table-hover">
+                <thead>
+                    <tr>
+                        <th scope="col">ID</th>
+                        <th scope="col">Name</th>
+                        <th scope="col">Image</th>
+                        <th scope="col">creation At</th>
+                        <th scope="col">updated At</th>
+                        <th scope="col">options</th>
+                    </tr>
+                </thead>
+                <tbody class="table-group-divider">
+                    <!-- Aca se van a listar las categorias -->
+                </tbody>
+            </table>
+        </section>
+    </main>
+
+    <script type="module" src="./src/js/main.js"></script>
+</body>
+
+</html>

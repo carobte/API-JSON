@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "JavaScript",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.svg/1200px-JavaScript-logo.svg.png"
+    },
+    {
+      "id": "2",
+      "name": "HTML",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.svg/1200px-JavaScript-logo.svg.png"
+    },
+    {
+      "id": "aaaf",
+      "name": "lucas",
+      "image": "https://www.google.com/search?sca_esv=a8b1485e4aab9472&sca_upv=1&sxsrf=ADLYWILyD7cdDOsHAsLYl_MgH3AJSX7NRQ:1716204842912&q=imagen&uds=ADvngMjFqkA0zTUh3r4rf-7tEyYlwx7jLjP4Wfgrg84g5WUjPpo59OAwv42C1Nxholbhp_d40CEqWD99fWOybNai8hIVqgFlgjuzKf1_NvvlKIANDFeH6FiB425OAle5tNvsxNbwxRNYEXdv8fciaxbUG1k4NN84CG0EWmEUCAnD3rWu5gSwTVNxukTWInxiOJOIyB3e8KoxnFoPad-yBJ7MIyzimARZlLHIqKlVoFTVkM8xmbJZ1mc0F429_LYd6e8r0bbPBKjgRKv0BNIwf7mA_8UH9GHav-meawB1eJ0zYr7VQZ3GEqw&udm=2&prmd=ivsnbmtz&sa=X&ved=2ahUKEwjm6ZegkZyGAxWUTjABHbF0BmUQtKgLegQIERAB&biw=965&bih=961#vhid=LcKUk7WP-n33oM&vssid=mosaic"
+    }
+  ]
+}
